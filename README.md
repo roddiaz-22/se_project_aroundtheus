@@ -9,7 +9,7 @@
   
 This project is made so all the elements are displayed correctly on popular screen sizes.
   
-**Intro**
+**My GitHub Repository**
 
-[Link to my repo](https://github.com/roddiaz-22/se_project_aroundtheus)
+[Project Around The U.S](https://github.com/roddiaz-22/se_project_aroundtheus)
 
