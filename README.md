@@ -9,6 +9,8 @@
 
 This project is made so all the elements are displayed correctly on popular screen sizes. This project uses media queries to help attain a correct viewing experince on these popular screen sizes.
 
-**My GitHub Repository**
+**My GitHub Repository and GitHub Page**
 
 [Project Around The U.S](https://github.com/roddiaz-22/se_project_aroundtheus)
+
+[GitHub Pages](https://roddiaz-22.github.io/se_project_aroundtheus/)
