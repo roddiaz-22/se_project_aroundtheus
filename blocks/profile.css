@@ -25,7 +25,6 @@
 
 .profile__edit-button:hover {
   opacity: 0.6;
-  border-radius: 2px;
   cursor: pointer;
 }
 
@@ -90,14 +89,13 @@
   }
   .profile__description {
     width: 100%;
-    justify-content: center;
     text-align: center;
     font-size: 14px;
     line-height: 17px;
-    padding-top: 14px;
   }
 
   .profile__add-button {
+    height: 50px;
     width: 282px;
     box-sizing: border-box;
     margin: 0;
@@ -111,7 +109,6 @@
     font-size: 22px;
     line-height: 27px;
     padding-top: 30px;
-    justify-content: center;
   }
 
   .profile__edit-button {
