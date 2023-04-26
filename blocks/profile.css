@@ -84,6 +84,7 @@
   }
   .profile__edit-button {
     margin-right: 18px;
+    margin-left: 14px;
   }
   .profile__image {
     margin-left: 30px;
@@ -93,6 +94,7 @@
   }
   .profile__title {
     margin: 0;
+    font-size: 40px;
   }
 }
 
